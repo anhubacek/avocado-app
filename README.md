@@ -1,0 +1,2 @@
+# avocado-app
+NextJS app
